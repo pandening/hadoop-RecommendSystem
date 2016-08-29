@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="yarn">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>

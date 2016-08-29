@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tools">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/tools" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kms">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/kms" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
